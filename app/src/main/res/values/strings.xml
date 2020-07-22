@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sms Tasker</string>
+    <string name="enter_name">Enter Task Name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_task">Add Task</string>
+    <string name="set_time">Set Time</string>
+    <string name="set_from_time">From Time</string>
+    <string name="not_available">N.A.</string>
+    <string name="set_to_timer">To Time</string>
+    <string name="enter_message_body">Enter Message</string>
+    <string name="delete">Delete</string>
+    <string name="submit">Submit</string>
+    <string name="important">Important</string>
+    <string name="okay">Okay!</string>
+    <string name="info">INFO</string>
+    <string name="no_task_message">No Timer is Set!\nUse \'+\' button to add some!</string>
+    <string name="permission_message">
+        <![CDATA[
+        This Application requires permission to detect a phone call
+        and send message if required. If the permission is not granted then the application
+        will not work. So please consider above case and grant the upcoming permissions.
+        ]]>
+    </string>
+    <string name="info_message">
+        <![CDATA[
+        \nThis is a simple and lite application which works on the concept of sending messages
+        within a specified time span. The User has to establish a Task defining the Start Time &
+        End Time with a Message Template. Once done with setup, the message will be sent in following cases -
+        \n1. If User Rejects the Call.
+        \n2. If the Incoming Call is not Answered(un-attended).
+        \n\nExamples-
+        \nCollege, Work, Swimming, Playing Sports, etc.
+        \n\nThank You…!
+        ]]>
+    </string>
+    <string name="task">Tasks</string>
+    <string name="sent_messages">Sent Messages</string>
+</resources>
